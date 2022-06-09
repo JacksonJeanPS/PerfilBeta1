@@ -14,9 +14,11 @@ Meus conhecimentos:
 
 ☕Conhecimentos básicos de JavaScript .
 
+-Conhecimentos básicos de HTML5 e CSS .
+
 🗣️Possuo nível de inglês A2 .
 
-Minhas Soft Skills:
+Minhas SoftSkills:
 
 📝Alta capacidade de organização e planejamento.
 
