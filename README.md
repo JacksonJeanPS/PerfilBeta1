@@ -16,6 +16,10 @@ Meus conhecimentos:
 
 -Conhecimentos básicos de HTML5 e CSS .
 
+-Conhecimentos básicos de React.js, Next.js, Node.js  .
+
+Conhecimentos básicos de Angular .
+
 🗣️Possuo nível de inglês A2 .
 
 Minhas SoftSkills:
